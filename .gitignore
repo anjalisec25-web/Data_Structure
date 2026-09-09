@@ -1,0 +1,18 @@
+# Compiled C files
+*.exe
+*.out
+*.o
+
+# Output folder
+output/
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
